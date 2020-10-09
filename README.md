@@ -1,3 +1,5 @@
+# References
+- https://www.udemy.com/course/spring-tutorial-for-beginners/
 # 2020/10/08
 ## What is the core of Spring Framework?
 - a dependency injection framwork
