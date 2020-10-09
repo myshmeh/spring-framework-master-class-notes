@@ -1,3 +1,9 @@
+# Learning Workload
+- Spring Framework
+- Spring Boot
+- Database
+- Spring Security
+- gRPC
 # References
 - https://www.udemy.com/course/spring-tutorial-for-beginners/
 # 2020/10/08
